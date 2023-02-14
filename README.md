@@ -2,6 +2,18 @@
 
 * how to use
 
+### open terminal and write
+
+```shell 
+php -S localhost:8080 
+```
+
+### open any browser and write
+
+```shell
+http://localhost:8080 
+```
+
 1 import check php class
 
 ```php
